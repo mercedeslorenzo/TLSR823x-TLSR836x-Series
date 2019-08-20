@@ -1,3 +1,4 @@
+![header-telink]({{site.baseurl}}/header-telink.jpg)
 
 The TLSR823x integrates a power-balanced 32-bit proprietary MCU, a high-performance BLE/2.4GHz Radio, SRAM, embedded flash or OTP, a general-purpose ADC, a quadrature decoder (QDEC), PWM, flexible I/O interfaces and other peripheral blocks required for Bluetooth Low Energy application development.
 
@@ -20,3 +21,4 @@ The TLSR823x integrates a power-balanced 32-bit proprietary MCU, a high-performa
 | BLE OTP            | TLSR8230 |                            |              |                        |                                   |
 | 2.4G Keyboard      | TLSR8369 |                            |              |                        |                                   |
 | BLE Generic        | TLSR8230 |                            | [SDK V1.1.0](http://wiki.telink-semi.cn/telink_shenzhen/BlackHawk/blackhawk-BLE-SDK.zip)   |                        |                                   |
+![header-telink]({{site.baseurl}}//header-telink.jpg)
