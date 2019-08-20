@@ -23,4 +23,4 @@ The TLSR823x integrates a power-balanced 32-bit proprietary MCU, a high-performa
 | 2.4G Keyboard      | TLSR8369 |                            |              |                        |                                   |
 | BLE Generic        | TLSR8230 |                            | [SDK V1.1.0](http://wiki.telink-semi.cn/telink_shenzhen/BlackHawk/blackhawk-BLE-SDK.zip)   |                        |                                   |
 
-![header-telink]({{site.baseurl}}//header-telink.jpg)
+![header-telink](https://i.imgur.com/7U96dR0.jpg)
