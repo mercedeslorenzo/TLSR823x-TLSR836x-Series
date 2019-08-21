@@ -1,5 +1,4 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
-
 ![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
 The TLSR823x integrates a power-balanced 32-bit proprietary MCU, a high-performance BLE/2.4GHz Radio, SRAM, embedded flash or OTP, a general-purpose ADC, a quadrature decoder (QDEC), PWM, flexible I/O interfaces and other peripheral blocks required for Bluetooth Low Energy application development.
