@@ -28,3 +28,4 @@ The TLSR823x integrates a power-balanced 32-bit proprietary MCU, a high-performa
 
 
 ![header-telink](https://i.imgur.com/7U96dR0.jpg)
+
