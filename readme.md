@@ -68,5 +68,5 @@ Download [TLSR8369 Datasheet](https://telinkgithub.github.io/Assets/02_TLSR823x-
 ← [View the project on GitHub](https://github.com/TelinkGithub/TLSR823x-Family "Menu")
 
 
-![header-telink](https://i.imgur.com/7U96dR0.jpg)
+![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)
 
