@@ -65,7 +65,7 @@ Download [TLSR8369 Datasheet](https://telinkgithub.github.io/Assets/02_TLSR823x-
 [Telink Testbench 1x1 User Guide](https://telinkgithub.github.io/Assets/02_TLSR823x-TLSR836x-Series/TLSR823x-TLSR836x-Series_06_Manufacture-Support-Tools/AN_16052600-E_Assembly%20and%20Maintenance%20Manual%20for%20Telink%20BLE%201x1%20Test%20System%202.1.pdf)
 
 
-← [View the project on GitHub](https://github.com/TelinkGithub/TLSR823x-Family "Menu")
+← [View the project on GitHub](https://github.com/TelinkGithub/TLSR823x-TLSR836x-Series)
 
 
 ![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)
